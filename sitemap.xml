@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/lestijden-contributie/</loc>
   </url>
   
@@ -43,7 +39,7 @@
   </url>
   
   <url>
-    <loc>/welkom/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>

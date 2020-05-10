@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Karatevereniging Kanshu-do</title>
+    <title>Welkom on Karatevereniging Kanshu-do</title>
     <link>/</link>
-    <description>Recent content on Karatevereniging Kanshu-do</description>
+    <description>Recent content in Welkom on Karatevereniging Kanshu-do</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
     
@@ -74,17 +74,6 @@ Samen met zijn zoon Yoshitake Funakoshi ontwikkelde hij het karate verder.</desc
       
       <guid>/vereniging/</guid>
       <description>Karate kun je op veel verschillende manieren trainen. Het karate is ontzettend breed en bestaat uit verschillende facetten. Het meest bekend is het wedstrijdkarate. Je kunt karate beoefenen om ons zo effectief mogelijk te leren verdedigen tegen lichamelijk geweld of om gecontroleerd geweld toe te passen: bijvoorbeeld bij de politie. Je kunt het trainen als een vorm van lichaamsbeweging en je kunt het trainen om het do-principe. Het Japanse woord do, heeft dezelfde betekenis als het Chinese tao en betekent de weg.</description>
-    </item>
-    
-    <item>
-      <title>Welkom</title>
-      <link>/welkom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/welkom/</guid>
-      <description>Welkom op de site van karatevereniging Kanshu-do
-Op deze site vind je informatie over onze karatevereniging, zoals waar en wanneer wij trainen, hoe oud je moet zijn om bij ons te mogen trainen en hoeveel contributie je betaalt. Daarnaast kun je hier achtergrond informatie vinden over karate en onze karatestijl en een fotoalbum.
-Osu!</description>
     </item>
     
   </channel>
