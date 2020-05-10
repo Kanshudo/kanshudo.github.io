@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kanshudo.nl/agenda/</loc>
+    <loc>/agenda/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/fotos/</loc>
+    <loc>/fotos/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/leden/</loc>
+    <loc>/leden/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/lestijden-contributie/</loc>
+    <loc>/lestijden-contributie/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/senioren/</loc>
+    <loc>/senioren/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/shotokan/</loc>
+    <loc>/shotokan/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/vereniging/</loc>
+    <loc>/vereniging/</loc>
   </url>
   
   <url>
-    <loc>http://kanshudo.nl/welkom/</loc>
+    <loc>/welkom/</loc>
   </url>
   
 </urlset>
