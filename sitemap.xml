@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>/jeugd/</loc>
+  </url>
+  
+  <url>
     <loc>/lestijden-contributie/</loc>
   </url>
   
@@ -19,19 +23,11 @@
   </url>
   
   <url>
-    <loc>/junioren/</loc>
-  </url>
-  
-  <url>
     <loc>/nieuws/</loc>
   </url>
   
   <url>
     <loc>/links/</loc>
-  </url>
-  
-  <url>
-    <loc>/senioren/</loc>
   </url>
   
   <url>
