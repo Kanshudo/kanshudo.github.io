@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/media/</loc>
+  </url>
+  
+  <url>
     <loc>/leden/</loc>
   </url>
   
@@ -16,10 +20,6 @@
   
   <url>
     <loc>/lestijden-contributie/</loc>
-  </url>
-  
-  <url>
-    <loc>/media/</loc>
   </url>
   
   <url>
